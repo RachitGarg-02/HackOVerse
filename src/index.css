@@ -1,0 +1,231 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+form {
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+textarea {
+  width: 17rem;
+  padding: 0.6rem;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3rem;
+}
+
+button {
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.chooseus_content{
+  display: flex;
+}
+.form_section{
+  height: 80vh !important;
+  width: 80%;
+  padding: 2rem;
+  background-color: #E0E3FE;
+  border-radius: 3rem;
+  margin: 1rem auto;
+}
+.form_fields{
+  display: flex;
+}
+.form_right{
+  margin-left: 2rem;
+}
+.form_submit_btn{
+  border-radius: 3rem;
+  background-color: black;
+  margin-left: 45%;
+  padding: 1rem 7rem;
+}
+.form_section{
+  display: flex;
+  height: 70%;
+}
+.form_section_left{
+  width: 70%;
+}
+.form_right_img{
+  margin-top: 15%;
+  height: 88%;
+}
+.chooseus_content_left_img{
+  height: 60%;
+}
+.chooseus_content_right{
+  height: 100%;
+  width: 30%;
+}
+.chooseus{
+  height: 80vh !important;
+}
+.text_color{
+  color: #7383FF;
+}
+.chooseus_head{
+  font-size: 3rem;
+}
+.chooseus_head_para{
+  width: 50%;
+}
+.form_head{
+  
+  font-size: 3rem;
+}
+.li{
+  margin: 1.3rem;
+}
+.chooseus_content_right_head{
+  font-size: 1.3rem;
+}
+.advisors_img{
+  margin-left: 3.2rem;
+  width: 90%;
+  height: 30rem;
+}
+.advisors_content{
+  color: white;
+  position: relative;
+  bottom: 15rem;
+  left: 6rem;
+
+}
+.advisors_button{
+  color: #1E232F;
+  background-color: white;
+  margin-left: 7rem;
+  margin-top: 2rem;
+}
+.blog_img{
+  width: 100%;
+  border-radius: 2.8rem 2.8rem 0px 0rem;
+  height: 15rem;
+}
+.blog_content{
+  margin: 0.5rem 1.5rem;
+  border: 5px solid black;
+  border-radius: 3rem;
+  width: 23%;
+  overflow: hidden;
+}
+.footer{
+  width: 100%;
+  height: 45rem;
+}
+.home {
+  height: 142vh;
+  width: 100%;
+}
+.sec{
+  margin-top: -10.5px;
+  width: 100%;
+}
+.blog{
+  margin: 1rem 2rem;
+  border-radius: 3rem;
+  padding: 2rem;
+  background-color: #E0E3FE;
+}
+.blog_head{
+  padding: 1rem;
+}
+.blog_desc{
+  padding: 0.5rem;
+}
+.patient_data_top_img{
+  width: 100%;
+}
+.patient_data_mid{
+  position: absolute;
+  left: 5rem;
+  top: 33rem;
+}
+.pie{
+  border: 2px solid black;
+}
+.patient_footer{
+  position: absolute;
+  bottom: -85rem;
+}
+.absolute{
+  position: absolute;
+}
+.patient_data_sugardata{
+  top: 22rem;
+  left: 6.9rem;
+}
+.patient_data_oxygendata{
+  top: 22rem;
+  right: 14rem;
+}
+.patient_data_haemoglobindata{
+  top: 22rem;
+  left: 39rem;
+}
+.patient_data_heartdata{
+  top: 22rem;
+  left: 22.7rem;
+}
+.patient_data_pulsedata{
+  top: 22rem;
+  right: 30rem;
+}
+.patient_data_btns{
+  display: flex;
+}
+.patient_btn{
+  margin: 1rem 2.5rem;
+}
+.video_row{
+  display: flex;
+}
+.video_video{
+  margin: 1rem 0rem;
+  display: flex;
+}
+.video_particular{
+  display: flex;
+  margin: 0 1.3rem;
+}
+.border_radius{
+  border-radius: 1.5rem;
+}
+.videoPage_head{
+padding-top: 8rem;
+padding-left: 3rem; 
+}
+.videoPage_head2{
+  padding-top: 2rem;
+  padding-left: 3rem; 
+  }
+.videoPage_navbar{
+  position: absolute;
+}
+.links{
+ 
+}
